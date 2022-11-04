@@ -128,3 +128,4 @@ function checkGender(){
         default:
         console.log("pass");//Test gender switch
     }
+  }
